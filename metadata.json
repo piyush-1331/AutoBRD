@@ -1,0 +1,5 @@
+{
+  "name": "AutoBRD",
+  "description": "An intelligent agent that ingests unstructured communication data to generate comprehensive Business Requirements Documents.",
+  "requestFramePermissions": []
+}
